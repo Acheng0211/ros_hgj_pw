@@ -1,0 +1,51 @@
+[0.096s] Invoking command in '/home/hgj/arm_ws/build/elite_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hgj/ros2_ws/install/fishbot_description:/home/hgj/ros_ws/install/rm_decision:/opt/ros/humble /usr/bin/cmake --build /home/hgj/arm_ws/build/elite_description -- -j8 -l8
+[0.142s] Invoked command in '/home/hgj/arm_ws/build/elite_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hgj/ros2_ws/install/fishbot_description:/home/hgj/ros_ws/install/rm_decision:/opt/ros/humble /usr/bin/cmake --build /home/hgj/arm_ws/build/elite_description -- -j8 -l8
+[0.177s] Invoking command in '/home/hgj/arm_ws/build/elite_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hgj/ros2_ws/install/fishbot_description:/home/hgj/ros_ws/install/rm_decision:/opt/ros/humble /usr/bin/cmake --install /home/hgj/arm_ws/build/elite_description
+[0.185s] -- Install configuration: "RelWithDebInfo"
+[0.185s] -- Execute custom install script
+[0.185s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/config/joint_names_ec66_description.yaml
+[0.185s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/config/urdf.rviz
+[0.186s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec612/base_link.STL
+[0.186s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec612/link1.STL
+[0.186s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec612/link2.STL
+[0.186s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec612/link3.STL
+[0.186s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec612/link4.STL
+[0.186s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec612/link5.STL
+[0.186s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec612/link6.STL
+[0.186s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec63/base_link.STL
+[0.186s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec63/link1.STL
+[0.186s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec63/link2.STL
+[0.187s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec63/link3.STL
+[0.187s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec63/link4.STL
+[0.187s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec63/link5.STL
+[0.187s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec63/link6.STL
+[0.187s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec66/base_link.STL
+[0.187s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec66/link1.STL
+[0.187s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec66/link2.STL
+[0.187s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec66/link3.STL
+[0.187s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec66/link4.STL
+[0.187s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec66/link5.STL
+[0.187s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec66/link6.STL
+[0.188s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/urdf/ec612_description.urdf
+[0.188s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/urdf/ec63_description.urdf
+[0.188s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/urdf/ec66_description.dae
+[0.188s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/urdf/ec66_description.urdf
+[0.188s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/urdf/gazebo/ec612_description.urdf
+[0.188s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/urdf/gazebo/ec63_description.urdf
+[0.188s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/urdf/gazebo/ec66_description.urdf
+[0.188s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/ament_index/resource_index/package_run_dependencies/elite_description
+[0.188s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/ament_index/resource_index/parent_prefix_path/elite_description
+[0.188s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/environment/ament_prefix_path.sh
+[0.188s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/environment/ament_prefix_path.dsv
+[0.189s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/environment/path.sh
+[0.189s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/environment/path.dsv
+[0.189s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/local_setup.bash
+[0.189s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/local_setup.sh
+[0.189s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/local_setup.zsh
+[0.189s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/local_setup.dsv
+[0.189s] -- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/package.dsv
+[0.196s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/ament_index/resource_index/packages/elite_description
+[0.197s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/cmake/elite_descriptionConfig.cmake
+[0.197s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/cmake/elite_descriptionConfig-version.cmake
+[0.197s] -- Up-to-date symlink: /home/hgj/arm_ws/install/elite_description/share/elite_description/package.xml
+[0.201s] Invoked command in '/home/hgj/arm_ws/build/elite_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hgj/ros2_ws/install/fishbot_description:/home/hgj/ros_ws/install/rm_decision:/opt/ros/humble /usr/bin/cmake --install /home/hgj/arm_ws/build/elite_description

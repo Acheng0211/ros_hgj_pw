@@ -1,0 +1,1 @@
+/home/hgj/arm_ws/build/arm_gripper_moveit2_config/ament_cmake_core/arm_gripper_moveit2_configConfig.cmake

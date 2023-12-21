@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="arm_gripper">
+
+    <xacro:include filename="fishbot.xacro" />
+
+      <joint name="connection" type="fixed">
+        <parent link="laser_link" />
+        <child link="base_link" />
+      </joint>
+
+    <xacro:include filename="ec66.urdf.xacro" />
+                                    
+ 
+    
+</robot>
+   

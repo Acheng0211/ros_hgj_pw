@@ -1,0 +1,1 @@
+/home/hgj/arm_ws/src/arm_gripper_moveit2_config/launch/move_group.launch.py

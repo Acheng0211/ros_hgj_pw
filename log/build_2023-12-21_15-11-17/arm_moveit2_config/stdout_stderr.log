@@ -1,0 +1,43 @@
+-- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/hgj/arm_ws/build/arm_moveit2_config
+-- Install configuration: "RelWithDebInfo"
+-- Execute custom install script
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/ament_index/resource_index/package_run_dependencies/arm_moveit2_config
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/ament_index/resource_index/parent_prefix_path/arm_moveit2_config
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/environment/ament_prefix_path.sh
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/environment/ament_prefix_path.dsv
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/environment/path.sh
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/environment/path.dsv
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/local_setup.bash
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/local_setup.sh
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/local_setup.zsh
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/local_setup.dsv
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/package.dsv
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/ament_index/resource_index/packages/arm_moveit2_config
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/cmake/arm_moveit2_configConfig.cmake
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/cmake/arm_moveit2_configConfig-version.cmake
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/package.xml
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/launch/demo.launch.py
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/launch/display_rviz2.launch.py
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/launch/move_group.launch.py
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/launch/moveit_rviz.launch.py
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/launch/rsp.launch.py
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/launch/setup_assistant.launch.py
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/launch/spawn_controllers.launch.py
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/launch/static_virtual_joint_tfs.launch.py
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/launch/warehouse_db.launch.py
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/config/ec66.ros2_control.xacro
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/config/ec66.srdf
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/config/ec66.urdf.xacro
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/config/initial_positions.yaml
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/config/joint_limits.yaml
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/config/kinematics.yaml
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/config/moveit.rviz
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/config/moveit_controllers.yaml
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/config/pilz_cartesian_limits.yaml
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/config/ros2_controllers.yaml
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/config/sensors_3d.yaml
+-- Symlinking: /home/hgj/arm_ws/install/arm_moveit2_config/share/arm_moveit2_config/.setup_assistant

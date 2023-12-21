@@ -1,0 +1,22 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/hgj/ros2_ws/install/fishbot_description/lib/python3.10/site-packages",
+        "/home/hgj/ros2_ws/install/cartographer_ros_msgs/local/lib/python3.10/dist-packages",
+        "/home/hgj/ros_ws/install/rm_decision/lib/python3.10/site-packages",
+        "/home/hgj/ros_ws/install/rm_decision_interfaces/local/lib/python3.10/dist-packages",
+        "/home/hgj/ros_ws/install/fast_lio/local/lib/python3.10/dist-packages",
+        "/home/hgj/ros_ws/install/livox_ros_driver2/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/hgj/ros2_ws/install/fishbot_description/lib/python3.10/site-packages",
+        "/home/hgj/ros2_ws/install/cartographer_ros_msgs/local/lib/python3.10/dist-packages",
+        "/home/hgj/ros_ws/install/rm_decision/lib/python3.10/site-packages",
+        "/home/hgj/ros_ws/install/rm_decision_interfaces/local/lib/python3.10/dist-packages",
+        "/home/hgj/ros_ws/install/fast_lio/local/lib/python3.10/dist-packages",
+        "/home/hgj/ros_ws/install/livox_ros_driver2/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

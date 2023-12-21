@@ -1,0 +1,1 @@
+/home/hgj/arm_ws/build/elite_description/ament_cmake_environment_hooks/local_setup.zsh

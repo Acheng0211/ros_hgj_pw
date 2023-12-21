@@ -1,0 +1,1 @@
+/home/hgj/arm_ws/build/arm_moveit2_config/ament_cmake_core/arm_moveit2_configConfig-version.cmake

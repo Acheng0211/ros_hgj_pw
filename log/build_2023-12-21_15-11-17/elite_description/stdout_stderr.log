@@ -1,0 +1,55 @@
+-- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_lint_auto: 0.12.8 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/hgj/arm_ws/build/elite_description
+-- Install configuration: "RelWithDebInfo"
+-- Execute custom install script
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/config/joint_names_ec66_description.yaml
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/config/urdf.rviz
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec612/base_link.STL
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec612/link1.STL
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec612/link2.STL
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec612/link3.STL
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec612/link4.STL
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec612/link5.STL
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec612/link6.STL
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec63/base_link.STL
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec63/link1.STL
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec63/link2.STL
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec63/link3.STL
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec63/link4.STL
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec63/link5.STL
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec63/link6.STL
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec66/base_link.STL
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec66/link1.STL
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec66/link2.STL
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec66/link3.STL
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec66/link4.STL
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec66/link5.STL
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/meshes/ec66/link6.STL
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/urdf/ec612_description.urdf
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/urdf/ec63_description.urdf
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/urdf/ec66_description.dae
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/urdf/ec66_description.urdf
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/urdf/gazebo/ec612_description.urdf
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/urdf/gazebo/ec63_description.urdf
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/urdf/gazebo/ec66_description.urdf
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/ament_index/resource_index/package_run_dependencies/elite_description
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/ament_index/resource_index/parent_prefix_path/elite_description
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/environment/ament_prefix_path.sh
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/environment/ament_prefix_path.dsv
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/environment/path.sh
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/environment/path.dsv
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/local_setup.bash
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/local_setup.sh
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/local_setup.zsh
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/local_setup.dsv
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/package.dsv
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/ament_index/resource_index/packages/elite_description
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/cmake/elite_descriptionConfig.cmake
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/cmake/elite_descriptionConfig-version.cmake
+-- Symlinking: /home/hgj/arm_ws/install/elite_description/share/elite_description/package.xml

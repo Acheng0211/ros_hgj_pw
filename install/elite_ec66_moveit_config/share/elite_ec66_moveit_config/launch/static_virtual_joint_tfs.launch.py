@@ -1,0 +1,1 @@
+/home/hgj/arm_ws/src/elite_robot_ros2/src/elite_moveit2/elite_ec66_moveit_config/launch/static_virtual_joint_tfs.launch.py

@@ -1,0 +1,4 @@
+source;share/elite_ec66_moveit_config/local_setup.bash
+source;share/elite_ec66_moveit_config/local_setup.dsv
+source;share/elite_ec66_moveit_config/local_setup.sh
+source;share/elite_ec66_moveit_config/local_setup.zsh
